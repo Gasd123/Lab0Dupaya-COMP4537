@@ -1,0 +1,14 @@
+#numButtons {
+    width: 150px;
+}
+
+#invalidArea {
+    color:red;
+}
+
+.memory-button {
+    color:rgb(88, 52, 5);
+    width: 10em;
+    height: 5em;
+    margin: 0.5em; /* adds space between each button when first loaded in */
+}
